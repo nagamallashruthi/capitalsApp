@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  background-color: #93c5fd;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #323f4b;
+}
+.ul {
+  list-style-type: none;
+}
+.span {
+  font-family: 'roboto';
+  font-size: 13px;
+  color: #323f4b;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.li {
+  display: flex;
+}
